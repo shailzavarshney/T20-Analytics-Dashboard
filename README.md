@@ -56,3 +56,18 @@ A comprehensive and interactive analytics dashboard designed for cricket enthusi
       Bowling Style
       Bowling Average
       Dot Ball Percentage
+      
+#### Player Analysis
+
+<img width="608" alt="s1" src="https://github.com/user-attachments/assets/f151d3b6-09d0-4034-8b89-4eb119916196">
+
+#### Combined Player Analysis
+
+<img width="605" alt="s2" src="https://github.com/user-attachments/assets/522a919e-48b2-40a4-8d01-d357585f7ef1">
+
+#### Final 11
+
+<img width="608" alt="s3" src="https://github.com/user-attachments/assets/251e6bbb-cbbb-4d87-afce-5ba9f4a2a071">
+
+#### Player Profile
+<img width="236" alt="s4" src="https://github.com/user-attachments/assets/a1617225-09d3-4654-89bb-614fc6616bd4">
