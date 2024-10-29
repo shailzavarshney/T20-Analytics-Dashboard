@@ -7,7 +7,7 @@ A comprehensive and interactive analytics dashboard designed for cricket enthusi
          ESPN Cricinfo
          
 #### 🔄 Data Collection & Processing:
-         Data is collected by scraping ESPN Cricinfo using BeautifulSoup and then processed in Python 
+         Data is collected by scrapping ESPN Cricinfo using BeautifulSoup and then processed in Python 
          to create structured datasets that are optimized and ready for analysis.
         
 #### 🔍 Broad Features:
