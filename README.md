@@ -4,9 +4,11 @@
 A comprehensive and interactive analytics dashboard designed for cricket enthusiasts looking to gain insights into T20 cricket. It offers insights into players' performance metrics, team strengths, and assists with "Final 11" lineup for optimal team strategy through comprehensive analysis using dynamic charts, tables, and filters.
 
 #### 📊 Data Source:
+
          ESPN Cricinfo
          
 #### 🔄 Data Collection & Processing:
+
          Data is collected by scrapping ESPN Cricinfo using BeautifulSoup and then processed in Python 
          to create structured datasets that are optimized and ready for analysis.
         
@@ -20,21 +22,21 @@ A comprehensive and interactive analytics dashboard designed for cricket enthusi
   
 #### 🌟 Key Features:
   
-    Combined Strength Analysis : Assess the combined strength of one or more players across key metrics 
+         Combined Strength Analysis : Assess the combined strength of one or more players across key metrics 
     
-    Player Analysis : View and analyze individual players based on their role or position.
+         Player Analysis : View and analyze individual players based on their role or position.
     
-    Player Trend Analysis : Track and visualize trends in player performance across various parameters.
+         Player Trend Analysis : Track and visualize trends in player performance across various parameters.
     
-    Team Strength Comparison : Compare team strength across parameters to form balanced line-ups.
+         Team Strength Comparison : Compare team strength across parameters to form balanced line-ups.
     
-    Final Team Selection : Assess and select the best 11 players based on essential performance metrics.
+         Final Team Selection : Assess and select the best 11 players based on essential performance metrics.
     
-    Player Profiles : Access detailed player profiles with stats across multiple games.
+         Player Profiles : Access detailed player profiles with stats across multiple games.
   
-    Match-wise Batting Stats : Review batting performance per match to gauge consistency.
+         Match-wise Batting Stats : Review batting performance per match to gauge consistency.
     
-    Match-wise Bowling Stats : Monitor bowling stats on a per-match basis for a deeper analysis.
+         Match-wise Bowling Stats : Monitor bowling stats on a per-match basis for a deeper analysis.
 
   #### 📈 Metrics:
 
