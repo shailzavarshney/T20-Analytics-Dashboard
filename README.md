@@ -12,11 +12,11 @@ A comprehensive and interactive analytics dashboard designed for cricket enthusi
         
 #### 🔍 Broad Features:
 
-    Player Analysis : Gain insights on individual players, covering batting, bowling, and recent performance 
-    to evaluate strengths and weaknesses.
-    
-    Final 11 Selection : Choose an optimal team lineup based on player stats, recent form, and match conditions 
-    to strategize for upcoming matches.
+         Player Analysis : Gain insights on individual players, covering batting, bowling, and recent 
+         performance to evaluate strengths and weaknesses.
+             
+         Final 11 Selection : Choose an optimal team lineup based on player stats, recent form, and 
+         match conditions to strategize for upcoming matches.
   
 #### 🌟 Key Features:
   
@@ -25,8 +25,6 @@ A comprehensive and interactive analytics dashboard designed for cricket enthusi
     Player Analysis : View and analyze individual players based on their role or position.
     
     Player Trend Analysis : Track and visualize trends in player performance across various parameters.
-    
-    Scatter Plots : Create scatter plots to compare metrics like Batting Average vs. Strike Rate or other relevant combinations.
     
     Team Strength Comparison : Compare team strength across parameters to form balanced line-ups.
     
